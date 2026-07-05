@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+networkx
+neo4j
+requests
+biopython
+lxml
+pydantic
+python-dotenv
+pytest
+scikit-learn
+spacy
